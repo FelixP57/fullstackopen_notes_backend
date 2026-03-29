@@ -1,7 +1,7 @@
-GET http://localhost:3001/api/notes/
+GET https://fullstackopen-notes-backend-2d6k.onrender.com/api/notes
 
 ###
-POST http://localhost:3001/api/notes/ HTTP/1.1
+POST https://fullstackopen-notes-backend-2d6k.onrender.com/api/notes HTTP/1.1
 content-type: application/json
 
 {
